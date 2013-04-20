@@ -17,6 +17,7 @@ Installation & Implementation
 Download this script into your Linux/UNIX based machine, and keep this script where every you feel like and change file permissions to 0755 or +x
 
 chmod 0755 AllRounder.sh
+
 ./AllRounder.sh (To see complete list of all the possible options with one example)
 
 Suggestions & Contribution
