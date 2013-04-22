@@ -2,6 +2,7 @@ CHANGES
 =======
 
 v0.01   -   Features as on 22nd April 2013 :
+
             -s | --serverinfo       : All Basic and advanced server details
             -u | --userinfo         : Users and their information
             -d | --diskinfo         : Mount and physical disk details
