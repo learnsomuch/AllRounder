@@ -6,7 +6,11 @@ This script is purely based on Linux/UNIX and can provide you all the required i
 Getting Started
 ===============
 
-For the best introduction to get started with AllRounder, Have a look at script :-)
+For the best introduction to get started with AllRounder, 
+
+$ Have a look at script :-)
+
+$ http://learnsomuch.com/updates/2013/05/07/a-quick-solution-to-gather-information-in-time-linux-flavour/
 
 Quick Overview
 ==============
